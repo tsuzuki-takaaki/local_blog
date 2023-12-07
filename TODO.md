@@ -4,3 +4,4 @@
 - [ ] commit時のtypecheck
 - [ ] linter, formatter
 - [ ] auth系のe2eテストを書いてみたいので、ログイン機能を実装する
+- [ ] ハッシュ値とCI
